@@ -6,8 +6,7 @@ Introduction
 Here we want to forecast the spatio-temporal water quality in terms of the “power of hydrogen (pH)” value for the next day based on the input data, which is the historical data of other water measurement indices. The input data consists of daily samples for 36 sites, providing measurements related to pH values in Georgia, USA. The input features consist of 11 common indices including volume of dissolved oxygen, temperature, and specific conductance (see details in dataset). The output to predict is the measurement of 'pH, water, unfiltered, field, standard units (Median)'.
 There are two major water systems to consider: one is centered on the city of Atlanta while the other is centered on the eastern coast of Georgia. This information indicates spatial depenency among different locations which are important to the forecast.
 
-Processed Data
-Download link: [Dataset]
+
 
 Data format: *.mat (use Matlab to open)
 
